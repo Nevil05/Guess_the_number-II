@@ -3,4 +3,5 @@ Basic python script where computer tries to guess the number randomly chosen by 
 
 OUTPUT:
 
-![image](https://github.com/Nevil05/Guess_the_number-II/assets/87539789/dcfb6928-2e48-4ae6-a335-d3771dc06c69)
+![Screenshot (967)](https://github.com/Nevil05/Guess_the_number-II/assets/87539789/c2f63c73-7830-4e12-9707-72ed64186281)
+
