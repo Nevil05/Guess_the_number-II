@@ -15,8 +15,7 @@ def computer_guess(x):
         else:
             guess = low  # because if high and low are same ie 1 guess=1
 
-        user_choice = input(
-            f'Is {guess} too high(H), too low(L), correct(c)? ')
+        user_choice = input(f'Is {guess} too high(H), too low(L), correct(c)? ')
         user_choice = user_choice.lower()
 
         if user_choice == 'h':
@@ -26,8 +25,7 @@ def computer_guess(x):
             low = guess+1
 
         elif user_choice == 'c':
-            print(
-                f'Yayy! The computer guessed your number,{guess}, correctly in {count+1} steps.')
+            print(f'Yayy! The computer guessed your number,{guess}, correctly in {count+1} steps.')
 
         else:
             print('INVALID PROMPT! ENTER h / l / c only!!')
